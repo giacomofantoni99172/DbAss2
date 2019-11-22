@@ -1,0 +1,102 @@
+Question1:
+Bud
+Icnusa
+Becks
+STOP
+
+Question2:
+Scaletta
+MiVida
+STOP
+
+Question3:
+Bud
+Corona
+Icnusa
+Carlsberg
+Spaten
+STOP
+
+Question4:
+HB
+Moretti
+STOP
+
+Question5:
+Bud
+Spaten
+STOP
+
+Question6:
+Fred Bud
+Fred Corona
+Fred Icnusa
+Joe Corona
+Fred Carlsberg
+Giacomo Peroni
+Giacomo Icnusa
+Sofia Corona
+Daniele Becks
+Filippo Bud
+Mattia Corona
+Fausto Spaten
+Filippo HB
+Sofia Bud
+Fred Spaten
+STOP
+
+question7:
+Bud 3.5
+Bud 4.5
+Bud 5.6
+Bud 5.0
+Bud 56.2
+Miller 3.5
+Miller 4.00
+Miller 5.0
+Corona 1.2
+Corona 2.3
+Corona 6.3
+Peroni 4.6
+Icnusa 5.1
+Leffe 4.3
+Leffe 4.8
+Becks 3.5
+Becks 5.2
+HB 2.4
+HB 4.8
+HB 4.6
+HB 2.1
+Carlsberg 2.3
+Carlsberg 8.6
+Spaten 4.3
+Spaten 56.2
+Spaten 4.2
+
+STOP
+question8:
+Scaletta
+RumEPera
+MiVida
+Piazzetta
+Skyline
+Grom
+
+STOP
+question9:
+Fred
+Joe
+Giacomo
+Sofia
+Daniele
+Filippo
+Mattia
+Fausto
+
+STOP
+question10:
+Sofia
+Daniele
+Filippo
+Mattia
+Fausto

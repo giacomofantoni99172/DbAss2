@@ -1,0 +1,18 @@
+Install library for compiling:
+  sudo apt-get install libpqxx
+SetUp database:
+  Install postgres server and client:
+    sudo apt-get install postgresql postgresql-client
+  Start postgres server:
+    sudo systemctl start postgresql.service
+  Become postgres user:
+    sudo su - postgres
+  As postgres user:
+      Create superuser for database:
+        createuser $name$ --interactive -W
+      Create database connected to the super user:
+        createdb -O $username$ $databasename$
+  Return normal user: exit
+As normal user:
+  Connect to database:
+    psql -h localhost -U $username$ -d $databasename$ -W

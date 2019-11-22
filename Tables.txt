@@ -1,0 +1,113 @@
+Bars>
+1: Scaletta via1  4456
+2: Piazzetta  via2  564521
+3: Number via3  31654
+4: Peperoncino  via4  231321
+5: RumEPera via5 4560123
+6: Novecento via6 4560
+7: Skyline via7 85623
+8: SistersBar via8 6488
+9: MiVida via9 8797
+10: Grom via10 54654
+STOP
+Drinkers>
+1: Fred via1 456543
+2: Joe via2 789754654
+3: Giacomo via3 3281182628
+4: Cecilia via3 3215885482
+5: Sofia via3 231514515
+6: Daniele via4 212312132
+7: Filippo via5 132154848
+8: Ettore via6 13215646
+9: Mattia via7 13254566
+10: Fausto via8 54845598
+STOP
+Beers>
+1: Bud Anheuser-Busch
+2: Miller Carlsberg
+3: Corona Italiana
+4: Leffe Belga
+5: Carlsberg Carlsberg
+6: Spaten Belga
+7: Peroni Italiana
+8: Icnusa Anheuser-Busch
+9: Becks Anheuser-Busch
+10: HB Monaco
+11: Moretti Heineken
+STOP
+Likes>
+1: Fred Bud
+2: Fred Corona
+3: Fred Icnusa
+4: Joe Corona
+5: Joe Leffe
+6: Joe Spaten
+7: Fred Carlsberg
+8: Giacomo Peroni
+9: Giacomo Icnusa
+10: Cecilia HB
+11: Sofia Corona
+12: Daniele Becks
+13: Filippo Bud
+14: Ettore Miller
+15: Mattia Corona
+16: Fausto Spaten
+17: Cecilia Spaten
+18: Filippo HB
+19: Sofia Bud
+20: Fred Spaten
+STOP
+Frequents>
+1: Fred Scaletta
+2: Fred Number
+3: Fred Piazzetta
+4: Joe Scaletta
+5: Joe Peperoncino
+6: Joe Number
+7: Fred Novecento
+8: Giacomo Scaletta
+9: Giacomo Piazzetta
+10: Cecilia Number
+11: Sofia Scaletta
+12: Daniele Piazzetta
+13: Filippo Peperoncino
+14: Ettore Number
+15: Mattia Scaletta
+16: Fausto Skyline
+17: Cecilia RumEPera
+18: Filippo MiVida
+19: Sofia Grom
+20: Fred MiVida
+STOP
+Sells>
+1: Scaletta Bud 3.5
+2: Scaletta Miller 3.5
+3: Scaletta Corona 1.2
+4: Scaletta Peroni 4.6
+5: Scaletta Icnusa 5.1
+6: Piazzetta Leffe 4.3
+7: Piazzetta Becks 3.5
+8: Piazzetta HB 2.4
+9: Number Bud 4.5
+10: Number Carlsberg 2.3
+11: Peperoncino Bud 3.5
+12: Peperoncino Miller 4.00
+13: Peperoncino Carlsberg 8.6
+14: Peperoncino HB 4.8
+15: RumEPera Corona 2.3
+16: RumEPera Leffe 4.8
+17: Novecento HB 4.6
+18: Skyline Bud 5.6
+19: Skyline Miller 5.0
+20: Skyline Spaten 4.3
+21: SistersBar HB 2.1
+22: MiVida Corona 6.3
+23: MiVida Leffe 4.3
+24: MiVida Spaten 56.2
+25: MiVida Peroni 4.6
+26: MiVida Bud 5.0
+27: MiVida Miller 5.0
+28: Grom Becks 5.2
+29: Grom Spaten 4.2
+30: Grom Bud 56.2
+STOP
