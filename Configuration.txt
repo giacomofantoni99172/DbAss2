@@ -16,3 +16,5 @@ SetUp database:
 As normal user:
   Connect to database:
     psql -h localhost -U $username$ -d $databasename$ -W
+Compile program:
+  g++ DatabaseConnector.cpp TestConnection.cpp -lpqxx  -lpq
